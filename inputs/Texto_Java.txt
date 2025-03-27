@@ -1,0 +1,16 @@
+## Prompt para o texto
+
+Estou fazendo uma pesquisa sobre java e gostaria de saber quais são as maiores críticas e os maiores elogios dessa linguagem de programação. Gere 2 de cada tipo sendo objetivas e técnicas ao assunto.
+
+
+Aqui estão duas críticas e dois elogios técnicos sobre Java:
+
+## Críticas:
+Alto consumo de memória e desempenho – Java utiliza a JVM (Java Virtual Machine), o que adiciona uma camada de abstração e pode resultar em maior consumo de memória e tempos de execução mais longos em comparação com linguagens compiladas diretamente para código nativo, como C ou Rust.
+
+Verboso e burocrático – Comparado a linguagens modernas como Python ou Kotlin, Java exige mais código boilerplate para tarefas simples, tornando o desenvolvimento menos ágil e mais suscetível a erros por repetição.
+
+## Elogios:
+Portabilidade e independência de plataforma – O conceito "Write Once, Run Anywhere" (WORA) permite que aplicações Java rodem em qualquer sistema operacional que tenha uma JVM instalada, sem necessidade de recompilação.
+
+Ecossistema maduro e vasto suporte – Java possui uma ampla gama de bibliotecas, frameworks e ferramentas (Spring, Hibernate, Jakarta EE), além de uma comunidade forte, tornando a linguagem robusta para desenvolvimento empresarial.
